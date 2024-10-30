@@ -1,0 +1,33 @@
+id,nombre,capital,extension_km2,habitantes,region_id
+1,Amazonas,Leticia,109665,79278,1
+2,Antioquia,Medellín,63612,6520917,2
+3,Arauca,Arauca,23818,262174,4
+4,Atlántico,Barranquilla,3388,2525743,3
+5,Bolívar,Cartagena,25978,2142894,3
+6,Boyacá,Tunja,23189,1231399,2
+7,Caldas,Manizales,7888,998255,2
+8,Caquetá,Florencia,88965,401489,1
+9,Casanare,Yopal,44640,420504,4
+10,Cauca,Popayán,29530,1416019,5
+11,Cesar,Valledupar,22904,1176617,3
+12,Chocó,Quibdó,46530,534826,5
+13,Córdoba,Montería,23980,1826391,3
+14,Cundinamarca,Bogotá,24750,3200000,2
+15,Guainía,Inírida,72447,47055,1
+16,Guaviare,San José del Guaviare,53783,82020,1
+17,Huila,Neiva,19900,1251771,2
+18,La Guajira,Riohacha,20848,680721,3
+19,Magdalena,Santa Marta,23188,1291684,3
+20,Meta,Villavicencio,85435,1048922,4
+21,Nariño,Pasto,33368,1887730,5
+22,Norte de Santander,Cúcuta,21658,1454206,2
+23,Putumayo,Mocoa,24885,348182,1
+24,Quindío,Armenia,1845,553400,2
+25,Risaralda,Pereira,3655,968670,2
+26,San Andrés y Providencia,San Andrés,52,65700,3
+27,Santander,Bucaramanga,30536,2217297,2
+28,Sucre,Sincelejo,10970,892301,3
+29,Tolima,Ibagué,23562,1516739,2
+30,Valle del Cauca,Cali,22140,4644161,5
+31,Vaupés,Mitú,53760,46001,1
+32,Vichada,Puerto Carreño,100242,69828,4
