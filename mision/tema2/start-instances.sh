@@ -11,7 +11,8 @@ docker run -e "ACCEPT_EULA=Y" \
            -e "MSSQL_SA_PASSWORD=$SA_PASSWORD" \
            -e "MSSQL_PID=Express" \
            --name $CONTAINER_NAME \
-           -p 1433:1433 \
+	   -v ./sqlserver:/var/opt/mssql/sqlserver.conf \
+           -p 1435:1435 \
            -d mcr.microsoft.com/mssql/server:2019-latest
            
 echo "Instancia de SQL Server '$CONTAINER_NAME' iniciada con éxito."

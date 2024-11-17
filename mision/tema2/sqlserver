@@ -1,5 +1,5 @@
 [sqlserver]
 instance_name=ANALISIS
 tcp_port=1435
-sql_data_dir=/var/opt/mssql-analisis/data
-sql_log_dir=/var/opt/mssql-analisis/log
+sql_data_dir=/var/opt/mssql/data
+sql_log_dir=/var/opt/mssql/log

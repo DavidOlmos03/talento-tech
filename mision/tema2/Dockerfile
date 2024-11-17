@@ -7,7 +7,7 @@ ENV ACCEPT_EULA=Y
 ENV MSSQL_SA_PASSWORD=Anarchy_1729
 
 # Exponer el puerto por defecto de SQL Server
-EXPOSE 1433
+EXPOSE 1435
 
 # Comando para iniciar SQL Server
 CMD ["/opt/mssql/bin/sqlservr"]
