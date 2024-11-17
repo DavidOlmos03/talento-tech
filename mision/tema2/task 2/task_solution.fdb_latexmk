@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1731809082.87425 "/home/david/Documentos/projects/talento-tech/mision/tema2/task 2/task_solution.tex" "task_solution.pdf" "task_solution" 1731809083.18387 2
+["pdflatex"] 1731809172.36238 "/home/david/Documentos/projects/talento-tech/mision/tema2/task 2/task_solution.tex" "task_solution.pdf" "task_solution" 1731809172.65087 0
   "/etc/texmf/web2c/texmf.cnf" 1731634659.92011 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/david/Documentos/projects/talento-tech/mision/tema2/task 2/task_solution.tex" 1731640931.7758 4686 e17754870e57a195c535f9cd49d9b7fb ""
+  "/home/david/Documentos/projects/talento-tech/mision/tema2/task 2/task_solution.tex" 1731809171.84923 4658 d029522434916f731da3a9fc807d1e24 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -42,8 +42,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1731635194.79899 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1731635203 6800792 e1207bd7145b21aac2323cce86ef6d1a ""
-  "task_solution.aux" 1731809083.13962 2260 74e52f268b8c399378a7b42b6c7c8e73 "pdflatex"
-  "task_solution.tex" 1731640931.7758 4686 e17754870e57a195c535f9cd49d9b7fb ""
+  "task_solution.aux" 1731809172.62524 2260 a2762387095c97bd4d6a1517ab66291e "pdflatex"
+  "task_solution.tex" 1731809171.84923 4658 d029522434916f731da3a9fc807d1e24 ""
   (generated)
   "task_solution.aux"
   "task_solution.log"
