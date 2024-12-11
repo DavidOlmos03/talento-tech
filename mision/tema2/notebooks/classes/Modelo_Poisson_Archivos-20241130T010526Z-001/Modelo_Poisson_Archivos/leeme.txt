@@ -1,0 +1,5 @@
+df_equipo_poder = El poder de caada equipo de acuerdo a poisson
+df_fix_semis = Los partidos de las smifinales
+df_semis = Las tablas de posición de cada cuadrangular semifinal
+toreno_2024_1 = La data histórica del primer torneo del año; esta se debe complementar con más torneos
+df_final_partidos = Los resultados de la final y el campeón
